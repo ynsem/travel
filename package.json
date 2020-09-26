@@ -1,0 +1,36 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp css",
+    "start": "gulp start"
+  },
+  "author": "ynsem",
+  "license": "ISC",
+  "devDependencies": {
+    "autoprefixer": "^10.0.0",
+    "browser-sync": "^2.26.12",
+    "del": "^6.0.0",
+    "eslint": "^7.9.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "gulp": "^4.0.2",
+    "gulp-csso": "^4.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-postcss": "^9.0.0",
+    "gulp-posthtml": "^3.0.5",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-scss": "^1.4.0",
+    "gulp-sourcemaps": "^2.6.5",
+    "gulp-svgstore": "^7.0.1",
+    "gulp-webp": "^4.0.1",
+    "postcss": "^8.0.9",
+    "posthtml-include": "^1.4.3",
+    "sass": "^1.26.11",
+    "scss": "^0.2.4"
+  }
+}

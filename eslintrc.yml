@@ -1,0 +1,8 @@
+---
+# среда запуска кода
+env:
+  node: true,
+  browser: true,
+
+extends:
+  - "airbnb-base"
